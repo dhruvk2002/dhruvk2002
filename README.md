@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/OyGx.gif)](Dhruv)
+[![MasterHead](https://i.gifer.com/OyGx.gif)]([Dhruv](https://github.com/dhruvk2002))
 <h1 align="center">Hi 👋, I'm Dhruv Kumar Shukla</h1>
 <h3 align="center">A machine learning engineer in making</h3>
 <img align="right" alt="Coding" width="400" src="https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif">
