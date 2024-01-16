@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Tensorflow, GenAI**
 
-- 📫 How to reach me **dhruvkumarshukla4@gmail.com**
+- 📫 Reach out to me at **dhruvkumarshukla4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
